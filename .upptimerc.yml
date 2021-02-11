@@ -17,7 +17,8 @@ sites:
   # - name: Secret Site
   #   url: $SECRET_SITE
 
-status-website: https://igrubesic.github.io/expert-disco/customTheme.css
+status-website: 
+themeUrl: https://igrubesic.github.io/expert-disco/customTheme.css
 
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
