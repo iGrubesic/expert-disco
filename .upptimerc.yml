@@ -1,6 +1,5 @@
 owner: iGrubesic
 repo: expert-disco
-status website: https://igrubesic.github.io/expert-disco/customTheme.css
 
 # Add your sites here
 sites:
@@ -18,7 +17,8 @@ sites:
   # - name: Secret Site
   #   url: $SECRET_SITE
 
-status-website:
+status-website: https://igrubesic.github.io/expert-disco/customTheme.css
+
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
