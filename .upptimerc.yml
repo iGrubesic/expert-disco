@@ -19,7 +19,7 @@ sites:
 
 status-website: 
   theme: dark 
-  themeUrl: https://igrubesic.github.io/expert-disco/my-custom-theme.css
+  themeUrl: https://github.com/iGrubesic/expert-disco/blob/master/assets/my-custom-theme.css
 
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
