@@ -5,6 +5,7 @@ repo: expert-disco
 sites:
   - name: Audiomob
     url: https://audiomob.io/
+    icon: assets/favicon.ico
     
   - name: Advertiser
     url: http://advertiser.audiomob.io/
