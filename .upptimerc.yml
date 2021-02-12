@@ -18,7 +18,6 @@ sites:
   #   url: $SECRET_SITE
 
 status-website: 
-  theme: dark 
   themeUrl: https://github.com/iGrubesic/expert-disco/blob/master/assets/my-custom-theme.css
 
   # Add your custom domain below, or remove the next line if you don't have a domain
