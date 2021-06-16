@@ -22,19 +22,19 @@
     "url": "http://advertiser.audiomob.io/",
     "icon": "https://favicons.githubusercontent.com/advertiser.audiomob.io",
     "slug": "advertiser",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.27%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
     "time": 1044,
-    "timeDay": 6111,
-    "timeWeek": 2158,
-    "timeMonth": 1242,
+    "timeDay": 4431,
+    "timeWeek": 2037,
+    "timeMonth": 1236,
     "timeYear": 1044,
     "dailyMinutesDown": {
-      "2021-06-16": 0
+      "2021-06-16": 25
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "https://demo.advertiser.audiomob.io/",
     "icon": "https://favicons.githubusercontent.com/demo.advertiser.audiomob.io",
     "slug": "demo-advertiser",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.27%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
     "time": 684,
-    "timeDay": 783,
-    "timeWeek": 652,
-    "timeMonth": 646,
+    "timeDay": 774,
+    "timeWeek": 664,
+    "timeMonth": 650,
     "timeYear": 684,
     "dailyMinutesDown": {
-      "2021-06-16": 0
+      "2021-06-16": 25
     }
   }
 ]
