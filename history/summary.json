@@ -4,18 +4,20 @@
     "url": "https://audiomob.io/",
     "icon": "assets/favicon.ico",
     "slug": "audiomob",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 324,
-    "timeDay": 225,
-    "timeWeek": 235,
-    "timeMonth": 242,
-    "timeYear": 324,
-    "dailyMinutesDown": {}
+    "time": 378,
+    "timeDay": 4702,
+    "timeWeek": 1353,
+    "timeMonth": 531,
+    "timeYear": 378,
+    "dailyMinutesDown": {
+      "2021-07-12": 0
+    }
   },
   {
     "name": "Advertiser",
@@ -42,18 +44,19 @@
     "url": "https://developer.audiomob.io/",
     "icon": "https://favicons.githubusercontent.com/developer.audiomob.io",
     "slug": "developer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 227,
-    "timeDay": 201,
-    "timeWeek": 168,
-    "timeMonth": 169,
+    "timeDay": 205,
+    "timeWeek": 173,
+    "timeMonth": 170,
     "timeYear": 227,
     "dailyMinutesDown": {
+      "2021-07-12": 0,
       "2021-06-08": 125
     }
   },
