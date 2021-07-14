@@ -6,15 +6,15 @@
     "slug": "audiomob",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "97.92%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.70%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
-    "time": 380,
-    "timeDay": 3405,
+    "time": 379,
+    "timeDay": 295,
     "timeWeek": 1295,
-    "timeMonth": 540,
-    "timeYear": 380,
+    "timeMonth": 539,
+    "timeYear": 379,
     "dailyMinutesDown": {
       "2021-07-12": 30
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
-    "time": 1085,
-    "timeDay": 1072,
-    "timeWeek": 975,
-    "timeMonth": 1535,
-    "timeYear": 1085,
+    "time": 1083,
+    "timeDay": 760,
+    "timeWeek": 927,
+    "timeMonth": 1525,
+    "timeYear": 1083,
     "dailyMinutesDown": {
       "2021-06-16": 25
     }
@@ -46,15 +46,15 @@
     "slug": "developer",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "97.94%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.71%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 230,
-    "timeDay": 396,
-    "timeWeek": 249,
-    "timeMonth": 192,
-    "timeYear": 230,
+    "time": 231,
+    "timeDay": 294,
+    "timeWeek": 258,
+    "timeMonth": 194,
+    "timeYear": 231,
     "dailyMinutesDown": {
       "2021-07-12": 30,
       "2021-06-08": 125
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
-    "time": 681,
-    "timeDay": 778,
-    "timeWeek": 704,
-    "timeMonth": 671,
-    "timeYear": 681,
+    "time": 680,
+    "timeDay": 502,
+    "timeWeek": 670,
+    "timeMonth": 662,
+    "timeYear": 680,
     "dailyMinutesDown": {
       "2021-06-16": 25
     }
