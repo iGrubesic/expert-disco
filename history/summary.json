@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
-    "time": 385,
-    "timeDay": 300,
-    "timeWeek": 494,
-    "timeMonth": 602,
-    "timeYear": 385,
+    "time": 384,
+    "timeDay": 287,
+    "timeWeek": 466,
+    "timeMonth": 604,
+    "timeYear": 384,
     "dailyMinutesDown": {
       "2021-07-12": 30
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1107,
-    "timeDay": 1316,
-    "timeWeek": 1726,
-    "timeMonth": 1105,
+    "timeDay": 1198,
+    "timeWeek": 1632,
+    "timeMonth": 1121,
     "timeYear": 1107,
     "dailyMinutesDown": {
       "2021-06-16": 25
@@ -45,15 +45,15 @@
     "icon": "https://favicons.githubusercontent.com/developer.audiomob.io",
     "slug": "developer",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "uptimeYear": "99.94%",
     "time": 239,
-    "timeDay": 288,
-    "timeWeek": 400,
-    "timeMonth": 255,
+    "timeDay": 256,
+    "timeWeek": 370,
+    "timeMonth": 260,
     "timeYear": 239,
     "dailyMinutesDown": {
       "2021-07-12": 30,
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 711,
-    "timeDay": 1041,
-    "timeWeek": 1395,
-    "timeMonth": 847,
-    "timeYear": 711,
+    "time": 713,
+    "timeDay": 1046,
+    "timeWeek": 1319,
+    "timeMonth": 864,
+    "timeYear": 713,
     "dailyMinutesDown": {
       "2021-06-16": 25
     }
